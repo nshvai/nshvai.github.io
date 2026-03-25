@@ -24,4 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher working in field of Computer vision, Deep Learning, and Optimization. I have extensive experience leading research initiatives within a multidisciplinary Data Science team, and supervising students, including PhD candidates. My work bridges theoretical advances and practical implementations, resulting in high-impact publications and novel methodological contributions. I am actively engaged in international scientific collaboration and regularly present at major conferences. In addition to my research activities, I am committed to mentoring the next generation of scientists and fostering a collaborative research environment.
+I am a researcher working in field of Computer Vision, Deep Learning, and Optimization. I have extensive experience leading research initiatives within a multidisciplinary Data Science team, and supervising students, including PhD candidates. 
+
+My work bridges theoretical advances and practical implementations, resulting in high-impact publications and novel methodological contributions. I am actively engaged in international scientific collaboration and regularly present at major conferences. In addition to my research activities, I am committed to mentoring the next generation of scientists and fostering a collaborative research environment.
+
+If you want to reach out, don't hesitate to send me an email. For more details on my professional path, please check my CV.
