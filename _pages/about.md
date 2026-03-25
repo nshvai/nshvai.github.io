@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior DS responsible for research at <a href='https://cyclope.ai/en/'>Cyclope.ai</a>. Associate Professor at <a href='https://www.ukma.edu.ua/eng/'>National University of Kyiv-Mohyla Academy</a>
+subtitle: Senior DS responsible for research at <a href='https://cyclope.ai/en/' > Cyclope.ai </a>. Associate Professor at <a href='https://www.ukma.edu.ua/eng/' > National University of Kyiv-Mohyla Academy </a>
 
 profile:
   align: right
