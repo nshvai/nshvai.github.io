@@ -27,8 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a researcher working at the intersection of **computer vision**, **neural architecture search/optimization**, and **efficient deep learning**. 
-My current projects include: (1) growing compact CNNs guided by **Layer-wise Relevance Propagation (LRP)**; (2) **license plate** OCR and retrieval models that stay robust to truncation; and (3) a **Fractal Decomposition** approach to optimization.
-
-On this site you can find my [projects](/projects/), a living list of [publications](/publications/), and a concise [CV](/cv/).
-If you’re interested in collaboration or mentoring, feel free to reach out.
+I am a researcher working in field of Computer vision, Deep Learning, and Optimization. I have extensive experience leading research initiatives within a multidisciplinary Data Science team, and supervising students, including PhD candidates. My work bridges theoretical advances and practical implementations, resulting in high-impact publications and novel methodological contributions. I am actively engaged in international scientific collaboration and regularly present at major conferences. In addition to my research activities, I am committed to mentoring the next generation of scientists and fostering a collaborative research environment.
