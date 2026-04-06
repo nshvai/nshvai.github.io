@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-06'
 papers:
   jfjZfnoAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -118,7 +118,7 @@ papers:
     title: Application guided image quality estimation based on classification
     year: '2019'
   jfjZfnoAAAAJ:Wp0gIr-vW9MC:
-    citations: 35
+    citations: 36
     title: 'Multi-meta-rag: Improving rag for multi-hop queries using database filtering with llm-extracted metadata'
     year: '2024'
   jfjZfnoAAAAJ:Y0pCki6q_DkC:
