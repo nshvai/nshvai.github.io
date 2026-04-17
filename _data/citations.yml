@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-17'
 papers:
   jfjZfnoAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -44,7 +44,7 @@ papers:
   jfjZfnoAAAAJ:HDshCWvjkbEC:
     citations: 0
     title: 'When Robots Say No: The Empathic Ethical Disobedience Benchmark'
-    year: '2025'
+    year: '2026'
   jfjZfnoAAAAJ:IWHjjKOFINEC:
     citations: 2
     title: 'FDS: Fractal decomposition based direct search approach for continuous dynamic optimization'
@@ -118,7 +118,7 @@ papers:
     title: Application guided image quality estimation based on classification
     year: '2019'
   jfjZfnoAAAAJ:Wp0gIr-vW9MC:
-    citations: 36
+    citations: 37
     title: 'Multi-meta-rag: Improving rag for multi-hop queries using database filtering with llm-extracted metadata'
     year: '2024'
   jfjZfnoAAAAJ:Y0pCki6q_DkC:
@@ -130,7 +130,7 @@ papers:
     title: Deep learning models compression based on evolutionary algorithms and digital fractional differentiation
     year: '2023'
   jfjZfnoAAAAJ:YsMSGLbcyi4C:
-    citations: 50
+    citations: 51
     title: Accurate classification for automatic vehicle-type recognition based on ensemble classifiers
     year: '2019'
   jfjZfnoAAAAJ:ZeXyd9-uunAC:
@@ -178,7 +178,7 @@ papers:
     title: Enhancing Generalization in Video Anomaly Detection through Multimodal Data Mixing
     year: '2025'
   jfjZfnoAAAAJ:hqOjcs7Dif8C:
-    citations: 51
+    citations: 52
     title: Generalization of cross-entropy loss function for image classification
     year: '2020'
   jfjZfnoAAAAJ:kNdYIx-mwKoC:
