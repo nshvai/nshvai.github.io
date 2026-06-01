@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-01'
 papers:
   jfjZfnoAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -58,7 +58,7 @@ papers:
     title: Investigating Fractal Decomposition Based Algorithm on Low-Dimensional Continuous Optimization Problems
     year: '2022'
   jfjZfnoAAAAJ:L8Ckcad2t8MC:
-    citations: 0
+    citations: 1
     title: Knowledge Transfer in Model-Based Reinforcement Learning Agents for Efficient Multi-Task Learning
     year: '2025'
   jfjZfnoAAAAJ:LkGwnXOMwfcC:
@@ -118,7 +118,7 @@ papers:
     title: Application guided image quality estimation based on classification
     year: '2019'
   jfjZfnoAAAAJ:Wp0gIr-vW9MC:
-    citations: 41
+    citations: 42
     title: 'Multi-meta-rag: Improving rag for multi-hop queries using database filtering with llm-extracted metadata'
     year: '2024'
   jfjZfnoAAAAJ:Y0pCki6q_DkC:
@@ -178,7 +178,7 @@ papers:
     title: Enhancing Generalization in Video Anomaly Detection through Multimodal Data Mixing
     year: '2025'
   jfjZfnoAAAAJ:hqOjcs7Dif8C:
-    citations: 53
+    citations: 54
     title: Generalization of cross-entropy loss function for image classification
     year: '2020'
   jfjZfnoAAAAJ:kNdYIx-mwKoC:
