@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-22'
 papers:
   jfjZfnoAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -74,7 +74,7 @@ papers:
     title: Convolutional neural network architecture search based on fractal decomposition optimization algorithm
     year: '2023'
   jfjZfnoAAAAJ:QIV2ME_5wuYC:
-    citations: 10
+    citations: 11
     title: Vision transformers inference acceleration based on adaptive layer normalization
     year: '2024'
   jfjZfnoAAAAJ:R3hNpaxXUhUC:
