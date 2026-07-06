@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-06'
 papers:
   jfjZfnoAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -74,7 +74,7 @@ papers:
     title: Convolutional neural network architecture search based on fractal decomposition optimization algorithm
     year: '2023'
   jfjZfnoAAAAJ:QIV2ME_5wuYC:
-    citations: 11
+    citations: 12
     title: Vision transformers inference acceleration based on adaptive layer normalization
     year: '2024'
   jfjZfnoAAAAJ:R3hNpaxXUhUC:
@@ -118,7 +118,7 @@ papers:
     title: Application guided image quality estimation based on classification
     year: '2019'
   jfjZfnoAAAAJ:Wp0gIr-vW9MC:
-    citations: 42
+    citations: 44
     title: 'Multi-meta-rag: Improving rag for multi-hop queries using database filtering with llm-extracted metadata'
     year: '2024'
   jfjZfnoAAAAJ:Y0pCki6q_DkC:
@@ -130,7 +130,7 @@ papers:
     title: Deep learning models compression based on evolutionary algorithms and digital fractional differentiation
     year: '2023'
   jfjZfnoAAAAJ:YsMSGLbcyi4C:
-    citations: 52
+    citations: 53
     title: Accurate classification for automatic vehicle-type recognition based on ensemble classifiers
     year: '2019'
   jfjZfnoAAAAJ:ZeXyd9-uunAC:
@@ -186,7 +186,7 @@ papers:
     title: Study of the Fractal decomposition based metaheuristic on low-dimensional Black-Box optimization problems
     year: '2022'
   jfjZfnoAAAAJ:mB3voiENLucC:
-    citations: 0
+    citations: 1
     title: 'MisSynth: Improving MISSCI Logical Fallacies Classification with Synthetic Data'
     year: '2025'
   jfjZfnoAAAAJ:mVmsd5A6BfQC:
