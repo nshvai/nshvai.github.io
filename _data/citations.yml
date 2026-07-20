@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-20'
 papers:
   jfjZfnoAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -21,6 +21,10 @@ papers:
     citations: 2
     title: 'Towards Lightweight Transformer Architecture: an Analysis on Semantic Segmentation'
     year: '2024'
+  jfjZfnoAAAAJ:4JMBOYKVnBMC:
+    citations: 0
+    title: 'Probe, Don''t Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG'
+    year: '2026'
   jfjZfnoAAAAJ:5nxA0vEk-isC:
     citations: 2
     title: 'Devs: Data distillation algorithm based on evolution strategy'
@@ -42,7 +46,7 @@ papers:
     title: Rigid systems of second-order linear differential equations
     year: '2006'
   jfjZfnoAAAAJ:HDshCWvjkbEC:
-    citations: 0
+    citations: 1
     title: 'When Robots Say No: The Empathic Ethical Disobedience Benchmark'
     year: '2026'
   jfjZfnoAAAAJ:IWHjjKOFINEC:
@@ -158,7 +162,7 @@ papers:
     title: Application of regularized ranking and collaborative filtering in predictive alarm algorithm for nocturnal hypoglycemia prevention
     year: '2017'
   jfjZfnoAAAAJ:dhFuZR0502QC:
-    citations: 7
+    citations: 8
     title: License Plate Images Generation with Diffusion Models
     year: '2024'
   jfjZfnoAAAAJ:e5wmG9Sq2KIC:
