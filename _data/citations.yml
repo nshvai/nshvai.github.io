@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-24'
 papers:
   jfjZfnoAAAAJ:-f6ydRqryjwC:
-    citations: 3
+    citations: 4
     title: 'MoIRA: Modular instruction routing architecture for multi-task robotics'
     year: '2026'
   jfjZfnoAAAAJ:0EnyYjriUFMC:
@@ -14,7 +14,7 @@ papers:
     title: Positivity criteria generalizing the leading principal minors criterion
     year: '2007'
   jfjZfnoAAAAJ:3fE2CSJIrl8C:
-    citations: 10
+    citations: 11
     title: 'Multiple auxiliary classifiers GAN for controllable image generation: Application to license plate recognition'
     year: '2023'
   jfjZfnoAAAAJ:4DMP91E08xMC:
@@ -50,7 +50,7 @@ papers:
     title: 'When Robots Say No: The Empathic Ethical Disobedience Benchmark'
     year: '2026'
   jfjZfnoAAAAJ:IWHjjKOFINEC:
-    citations: 2
+    citations: 3
     title: 'FDS: Fractal decomposition based direct search approach for continuous dynamic optimization'
     year: '2025'
   jfjZfnoAAAAJ:IjCSPb-OGe4C:
@@ -74,7 +74,7 @@ papers:
     title: Evolutionary data distillation for large image size datasets
     year: '2023'
   jfjZfnoAAAAJ:MXK_kJrjxJIC:
-    citations: 15
+    citations: 16
     title: Convolutional neural network architecture search based on fractal decomposition optimization algorithm
     year: '2023'
   jfjZfnoAAAAJ:QIV2ME_5wuYC:
@@ -96,7 +96,7 @@ papers:
   jfjZfnoAAAAJ:TQgYirikUcIC:
     citations: 0
     title: Text-to-Image License Plate Generation
-    year: Unknown Year
+    year: '2026'
   jfjZfnoAAAAJ:Tyk-4Ss8FVUC:
     citations: 15
     title: New vehicle classification method based on hybrid classifiers
@@ -110,7 +110,7 @@ papers:
     title: Miniversal deformations of chains of linear mappings
     year: '2007'
   jfjZfnoAAAAJ:UebtZRa9Y70C:
-    citations: 7
+    citations: 8
     title: Perturbation theory of matrix pencils through miniversal deformations
     year: '2021'
   jfjZfnoAAAAJ:W7OEmFMy1HYC:
@@ -122,7 +122,7 @@ papers:
     title: Application guided image quality estimation based on classification
     year: '2019'
   jfjZfnoAAAAJ:Wp0gIr-vW9MC:
-    citations: 47
+    citations: 50
     title: 'Multi-meta-rag: Improving rag for multi-hop queries using database filtering with llm-extracted metadata'
     year: '2024'
   jfjZfnoAAAAJ:Y0pCki6q_DkC:
@@ -146,11 +146,11 @@ papers:
     title: "Semantic segmentation approach for tunnel roads\u2019 analysis"
     year: '2019'
   jfjZfnoAAAAJ:_Qo2XoVZTnwC:
-    citations: 0
+    citations: 1
     title: Evolutionary Fractal Decomposition based Search for Dynamic Optimization
     year: '2025'
   jfjZfnoAAAAJ:_kc_bZDykSQC:
-    citations: 10
+    citations: 9
     title: Adaptive image anonymization in the context of image classification with neural networks
     year: '2023'
   jfjZfnoAAAAJ:aqlVkmm33-oC:
@@ -174,7 +174,7 @@ papers:
     title: A constructive proof of Pokrzywa's theorem about perturbations of matrix pencils
     year: '2019'
   jfjZfnoAAAAJ:hC7cP41nSMkC:
-    citations: 0
+    citations: 1
     title: 'TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents'
     year: '2025'
   jfjZfnoAAAAJ:hFOr9nPyWt4C:
@@ -185,6 +185,10 @@ papers:
     citations: 55
     title: Generalization of cross-entropy loss function for image classification
     year: '2020'
+  jfjZfnoAAAAJ:j3f4tGmQtD8C:
+    citations: 0
+    title: Parallel Fractal Decomposition Search for Dynamic Continuous Optimization
+    year: '2026'
   jfjZfnoAAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: Study of the Fractal decomposition based metaheuristic on low-dimensional Black-Box optimization problems
@@ -214,7 +218,7 @@ papers:
     title: A Complete Unitary Similarity Invariant for Unicellular Matrices
     year: Unknown Year
   jfjZfnoAAAAJ:u5HHmVD_uO8C:
-    citations: 6
+    citations: 5
     title: A criterion for unitary similarity of upper triangular matrices in general position
     year: '2011'
   jfjZfnoAAAAJ:ufrVoPGSRksC:
