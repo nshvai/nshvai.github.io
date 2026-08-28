@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-28'
 papers:
   jfjZfnoAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -226,6 +226,6 @@ papers:
     title: Novel context-aware classification for highly accurate automatic toll collection
     year: '2019'
   jfjZfnoAAAAJ:zYLM7Y9cAGgC:
-    citations: 29
+    citations: 30
     title: Deterministic metaheuristic based on fractal decomposition for large-scale optimization
     year: '2017'
